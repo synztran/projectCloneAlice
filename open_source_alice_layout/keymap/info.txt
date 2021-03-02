@@ -1,0 +1,6 @@
+github: https://github.com/qmk/qmk_firmware/tree/master/keyboards/coarse/cordillera
+
+config.qmk:
+https://config.qmk.fm/#/coarse/cordillera/LAYOUT_alice
+
+Tool design: KiCad library
